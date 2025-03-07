@@ -6,7 +6,7 @@
     <meta name="keywords" content="HTML, encabezados, importancia de encabezados">
     <title>Cómo poner encabezados HTML</title>
     <link rel="stylesheet" type="text/css" href="estilos.css">
-    <script defer src="https://livechat.hibot.us/hibot-chat.min.js" data-channel="0453a72f4d544ca6a705a083d685e372" id="livechat"></script>
+    <script src="https://cdn.pulse.is/livechat/loader.js" data-live-chat-id="67cb1a301b04bc9b260a6ac4" async></script>
 </head>
 <body>
     <h1>Importancia de los encabezados en HTML</h1>
